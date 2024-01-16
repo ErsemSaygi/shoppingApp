@@ -16,6 +16,8 @@ This project is a simple application that includes many modern android libraries
 **DataBinding:** The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
 
 **Rx-Java:** RxJava is a Java library for asynchronous and event-driven programming.
+ HomePage           |   DetailPage
+:-------------------------:|:-------------------------:
+![IMG_20240116_225001](https://github.com/ErsemSaygi/shoppingApp/assets/117079966/496e164e-aff6-48fb-ad96-a037e507db7b)  | ![IMG_20240116_225030](https://github.com/ErsemSaygi/shoppingApp/assets/117079966/5a07a0ec-049b-4d23-bd8d-ede5db420895)
 
-![IMG_20240116_225001](https://github.com/ErsemSaygi/shoppingApp/assets/117079966/496e164e-aff6-48fb-ad96-a037e507db7b)![IMG_20240116_225001 (1)](https://github.com/ErsemSaygi/shoppingApp/assets/117079966/68cde46e-b88a-450d-a303-432b381c5ca6)
 
